@@ -104,11 +104,42 @@
   </entry>
   
   <entry>
+    <title>菜鸡的Webug之路</title>
+    <link href="http://lyscholar.cn/posts/2ed8.html"/>
+    <id>http://lyscholar.cn/posts/2ed8.html</id>
+    <published>2019-10-23T16:00:00.000Z</published>
+    <updated>2020-03-20T15:23:25.108Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;webug&quot;&gt;&lt;a href=&quot;#webug&quot; class=&quot;headerlink&quot; title=&quot;webug&quot;&gt;&lt;/a&gt;webug&lt;/h1&gt;&lt;h2 id=&quot;1-显错注入&quot;&gt;&lt;a href=&quot;#1-显错注入&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="safe" scheme="http://lyscholar.cn/categories/safe/"/>
+    
+    
+      <category term="渗透" scheme="http://lyscholar.cn/tags/%E6%B8%97%E9%80%8F/"/>
+    
+      <category term="思路" scheme="http://lyscholar.cn/tags/%E6%80%9D%E8%B7%AF/"/>
+    
+      <category term="安全" scheme="http://lyscholar.cn/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>b/s(浏览器与服务器)通信-ajax篇,从入门到放弃</title>
     <link href="http://lyscholar.cn/posts/9bed.html"/>
     <id>http://lyscholar.cn/posts/9bed.html</id>
     <published>2019-09-12T16:00:00.000Z</published>
-    <updated>2020-03-17T15:14:14.269Z</updated>
+    <updated>2020-03-17T15:15:28.320Z</updated>
     
     <summary type="html">
     
