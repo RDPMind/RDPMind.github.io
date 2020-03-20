@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lyscholar.cn/"/>
-  <updated>2020-03-03T17:47:54.312Z</updated>
+  <updated>2020-03-20T16:15:13.974Z</updated>
   <id>http://lyscholar.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1+x 初级理论考试样题 2019</title>
+    <link href="http://lyscholar.cn/posts/6426.html"/>
+    <id>http://lyscholar.cn/posts/6426.html</id>
+    <published>2020-03-20T16:15:07.086Z</published>
+    <updated>2020-03-20T16:15:13.974Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-X初级理论考试样题-2019&quot;&gt;&lt;a href=&quot;#1-X初级理论考试样题-2019&quot; class=&quot;headerlink&quot; title=&quot;1+X初级理论考试样题 2019&quot;&gt;&lt;/a&gt;1+X初级理论考试样题 2019&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大前端" scheme="http://lyscholar.cn/categories/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="http://lyscholar.cn/tags/JavaScript/"/>
+    
+      <category term="jquery" scheme="http://lyscholar.cn/tags/jquery/"/>
+    
+  </entry>
   
   <entry>
     <title>目标网站渗透思路</title>
@@ -104,11 +133,69 @@
   </entry>
   
   <entry>
+    <title>1+x 证书 web 前端开发基础课程大纲</title>
+    <link href="http://lyscholar.cn/posts/d65b.html"/>
+    <id>http://lyscholar.cn/posts/d65b.html</id>
+    <published>2019-12-18T16:00:00.000Z</published>
+    <updated>2020-03-20T16:15:13.985Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-x-证书-web-前端开发基础课程大纲&quot;&gt;&lt;a href=&quot;#1-x-证书-web-前端开发基础课程大纲&quot; class=&quot;headerlink&quot; title=&quot;1+x 证书 web 前端开发基础课程大纲&quot;&gt;&lt;/a&gt;1+x 证书 web
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大前端" scheme="http://lyscholar.cn/categories/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="大全" scheme="http://lyscholar.cn/tags/%E5%A4%A7%E5%85%A8/"/>
+    
+      <category term="大纲" scheme="http://lyscholar.cn/tags/%E5%A4%A7%E7%BA%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1+x中级理论考试样题 2019</title>
+    <link href="http://lyscholar.cn/posts/4a64.html"/>
+    <id>http://lyscholar.cn/posts/4a64.html</id>
+    <published>2019-12-18T16:00:00.000Z</published>
+    <updated>2020-03-20T16:15:13.987Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-x中级理论考试样题-2019&quot;&gt;&lt;a href=&quot;#1-x中级理论考试样题-2019&quot; class=&quot;headerlink&quot; title=&quot;1+x中级理论考试样题 2019&quot;&gt;&lt;/a&gt;1+x中级理论考试样题 2019&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大前端" scheme="http://lyscholar.cn/categories/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="http://lyscholar.cn/tags/JavaScript/"/>
+    
+      <category term="jquery" scheme="http://lyscholar.cn/tags/jquery/"/>
+    
+  </entry>
+  
+  <entry>
     <title>菜鸡的Webug之路</title>
     <link href="http://lyscholar.cn/posts/2ed8.html"/>
     <id>http://lyscholar.cn/posts/2ed8.html</id>
     <published>2019-10-23T16:00:00.000Z</published>
-    <updated>2020-03-20T15:23:25.108Z</updated>
+    <updated>2020-03-20T16:16:12.156Z</updated>
     
     <summary type="html">
     
