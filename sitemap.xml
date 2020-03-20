@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lyscholar.cn/friends/index.html</loc>
+    
+    <lastmod>2020-03-20T18:37:31.018Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lyscholar.cn/posts/test.html</loc>
     
     <lastmod>2020-03-20T17:32:29.999Z</lastmod>
@@ -96,13 +103,6 @@
     <loc>http://lyscholar.cn/loading/index.html</loc>
     
     <lastmod>2020-02-26T05:11:21.147Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lyscholar.cn/friends/index.html</loc>
-    
-    <lastmod>2020-02-25T12:38:12.223Z</lastmod>
     
   </url>
   
