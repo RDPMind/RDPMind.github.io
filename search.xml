@@ -251,6 +251,33 @@
     
     
     <entry>
+      <title>应该装的插件,应该会的快捷键</title>
+      <link href="/posts/47a3.html"/>
+      <url>/posts/47a3.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>记载并引荐一些自己开发学习进程中常用的一些插件快捷键协助开发</p><p><img src="./loading.gif" data-original="http://imgal.lyscholar.cn/new/1584844888964.png" alt="就是抄"></p><h2 id="关于vscode"><a href="#关于vscode" class="headerlink" title="关于vscode"></a>关于vscode</h2><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><p><a href="https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons" target="_blank" rel="noopener">vscode-icons(文件图标)</a></p><p><a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense" target="_blank" rel="noopener">Path Intellisense(文件路径补全)</a></p><p><a href="https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules" target="_blank" rel="noopener">CSS Modules(对使用了css modules的jsx标签的类名补全和跳转到定义位置)</a></p><p>JSON Tools</p><p><a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css" target="_blank" rel="noopener">HTML必备插件</a></p><p><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank" rel="noopener">Code Runner : 代码编译运行看结果，支持众多语言</a></p><p><a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced" target="_blank" rel="noopener">Markdown Preview Enhanced ： 本地Markdown文档预览插件。</a></p><h4 id="react开发"><a href="#react开发" class="headerlink" title="react开发"></a>react开发</h4><p><a href="https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets" target="_blank" rel="noopener">Reactjs code snippets</a></p><p><a href="https://marketplace.visualstudio.com/items?itemName=timothymclane.react-redux-es6-snippets" target="_blank" rel="noopener">react-redux-es6-snippets</a></p><h4 id="vue开发"><a href="#vue开发" class="headerlink" title="vue开发"></a>vue开发</h4><p><a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur" target="_blank" rel="noopener">Vue语法高亮</a></p><h3 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h3><p>打开命令面板    cmd + shift + p / F1<br>打开设置页面    cmd + ,<br>删除一行        cmd + E(自定义)<br>添加书签        cmd + option + k<br>代码格式化      control + opiton + B<br>打开一个新窗口： Ctrl+Shift+N<br>关闭窗口： Ctrl+Shift+W<br>Ctrl+C 、 Ctrl+V 复制或剪切当前行/当前选中内容<br>整个文件夹中查找 Ctrl+Shift+F<br>全屏：F11</p><h4 id="修改默认快捷键"><a href="#修改默认快捷键" class="headerlink" title="修改默认快捷键"></a>修改默认快捷键</h4><pre class=" language-xl"><code class="language-xl">File -> Preferences -> Keyboard Shortcuts，或者：Alt+F -> p -> k修改 keybindings.json：// Place your key bindings in this file to overwrite the defaults[    // ctrl+space 被切换输入法快捷键占用    {        "key": "ctrl+alt+space",        "command": "editor.action.triggerSuggest",        "when": "editorTextFocus"    },    // ctrl+d 删除一行    {        "key": "ctrl+d",        "command": "editor.action.deleteLines",        "when": "editorTextFocus"    },    // 与删除一行的快捷键互换    {        "key": "ctrl+shift+k",        "command": "editor.action.addSelectionToNextFindMatch",        "when": "editorFocus"    },    // ctrl+shift+/多行注释    {        "key":"ctrl+shift+/",        "command": "editor.action.blockComment",        "when": "editorTextFocus"    },    // 定制与 sublime 相同的大小写转换快捷键，需安装 TextTransform 插件    {        "key": "ctrl+k ctrl+u",        "command": "uppercase",        "when": "editorTextFocus"    },    {        "key": "ctrl+k ctrl+l",        "command": "lowercase",        "when": "editorTextFocus"    }]</code></pre><h2 id="关于Chrome"><a href="#关于Chrome" class="headerlink" title="关于Chrome"></a>关于Chrome</h2><h3 id="插件-1"><a href="#插件-1" class="headerlink" title="插件"></a>插件</h3><p><strong>Proxy SwitchyOmega</strong><br>轻松管理和切换多个代理设置</p><p><strong>Hack bar</strong><br>HackBar 工具包</p><p><strong>shodan</strong><br>Shodan插件网站的托管位置（国家/地区，城市），谁拥有IP和哪些其他服务/端口处于打开状态。</p><p><strong>Wappalyzer</strong><br>在信息搜集进程中，Wappalyzer可以剖析目的网站所采用的平台构架、网站环境、服务器配置环境、JavaScript框架、编程语言等参数。</p><p><strong>ScanAnnotation</strong><br>通过注释发现一些利用的内容</p><p><strong>谷歌访问助手</strong><br>这是一款免费FQ插件，轻松访问谷歌搜索，谷歌应用商店。一些不想花钱的，可以用一下</p><p><strong>The Great Suspender</strong><br>可以自动休眠暂时不用的选项卡以节省内存的开支<br><strong>Adblock</strong><br>屏蔽了几乎所有的烦人的弹出广告、Banner广告、图片广告等。直接带来的结果是：页面干净，加载速度变快、电量节省等。<br><strong>JSONView</strong><br>自动帮你排版json数据<br><strong>tampermonkey</strong><br>Tampermonkey「油猴」是一款免费的浏览器扩展和最为流行的用户脚本管理器。</p><h2 id="关于火狐"><a href="#关于火狐" class="headerlink" title="关于火狐"></a>关于火狐</h2><h3 id="插件-2"><a href="#插件-2" class="headerlink" title="插件"></a>插件</h3><p><strong>FoxyProxy Standard</strong><br>FoxyProxy是一个初级的代理管理工具，它完全替代了Firefox无限的代理功用。可自定义配置代理并疾速完成代理切换。</p><p><strong>Wappalyzer</strong><br>在信息搜集进程中，Wappalyzer可以剖析目的网站所采用的平台构架、网站环境、服务器配置环境、JavaScript框架、编程语言等参数。</p><p><strong>HTTP Header Live</strong><br>此插件可捕捉网页中加载的全部网页流量数据包，点击任一数据包可对恳求包停止编辑与重放。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 插件 </tag>
+            
+            <tag> 快捷键 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>shadowsocks 使用配置</title>
       <link href="/posts/6d0d.html"/>
       <url>/posts/6d0d.html</url>
