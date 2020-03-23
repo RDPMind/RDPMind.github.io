@@ -104,11 +104,11 @@
   </entry>
   
   <entry>
-    <title>1+x中级理论考试样题 2019</title>
-    <link href="http://lyscholar.cn/posts/4a64.html"/>
-    <id>http://lyscholar.cn/posts/4a64.html</id>
-    <published>2019-12-18T16:00:00.000Z</published>
-    <updated>2020-03-20T16:57:00.913Z</updated>
+    <title>b/s(浏览器与服务器)通信-axios篇</title>
+    <link href="http://lyscholar.cn/posts/899d.html"/>
+    <id>http://lyscholar.cn/posts/899d.html</id>
+    <published>2020-01-21T16:00:00.000Z</published>
+    <updated>2020-03-23T04:55:30.445Z</updated>
     
     <summary type="html">
     
@@ -116,7 +116,38 @@
       
         
         
-          &lt;h1 id=&quot;1-x中级理论考试样题-2019&quot;&gt;&lt;a href=&quot;#1-x中级理论考试样题-2019&quot; class=&quot;headerlink&quot; title=&quot;1+x中级理论考试样题 2019&quot;&gt;&lt;/a&gt;1+x中级理论考试样题 2019&lt;/h1&gt;&lt;h2
+          &lt;h1 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大前端" scheme="http://lyscholar.cn/categories/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="Ajax" scheme="http://lyscholar.cn/tags/Ajax/"/>
+    
+      <category term="JavaScript" scheme="http://lyscholar.cn/tags/JavaScript/"/>
+    
+      <category term="axios" scheme="http://lyscholar.cn/tags/axios/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1+x 初级理论考试样题 2019</title>
+    <link href="http://lyscholar.cn/posts/6426.html"/>
+    <id>http://lyscholar.cn/posts/6426.html</id>
+    <published>2019-12-18T16:00:00.000Z</published>
+    <updated>2020-03-20T17:26:53.197Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-X初级理论考试样题-2019&quot;&gt;&lt;a href=&quot;#1-X初级理论考试样题-2019&quot; class=&quot;headerlink&quot; title=&quot;1+X初级理论考试样题 2019&quot;&gt;&lt;/a&gt;1+X初级理论考试样题 2019&lt;/h1&gt;&lt;h2
         
       
     
@@ -162,11 +193,11 @@
   </entry>
   
   <entry>
-    <title>1+x 初级理论考试样题 2019</title>
-    <link href="http://lyscholar.cn/posts/6426.html"/>
-    <id>http://lyscholar.cn/posts/6426.html</id>
+    <title>1+x中级理论考试样题 2019</title>
+    <link href="http://lyscholar.cn/posts/4a64.html"/>
+    <id>http://lyscholar.cn/posts/4a64.html</id>
     <published>2019-12-18T16:00:00.000Z</published>
-    <updated>2020-03-20T17:26:53.197Z</updated>
+    <updated>2020-03-20T16:57:00.913Z</updated>
     
     <summary type="html">
     
@@ -174,7 +205,7 @@
       
         
         
-          &lt;h1 id=&quot;1-X初级理论考试样题-2019&quot;&gt;&lt;a href=&quot;#1-X初级理论考试样题-2019&quot; class=&quot;headerlink&quot; title=&quot;1+X初级理论考试样题 2019&quot;&gt;&lt;/a&gt;1+X初级理论考试样题 2019&lt;/h1&gt;&lt;h2
+          &lt;h1 id=&quot;1-x中级理论考试样题-2019&quot;&gt;&lt;a href=&quot;#1-x中级理论考试样题-2019&quot; class=&quot;headerlink&quot; title=&quot;1+x中级理论考试样题 2019&quot;&gt;&lt;/a&gt;1+x中级理论考试样题 2019&lt;/h1&gt;&lt;h2
         
       
     
